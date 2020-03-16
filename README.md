@@ -7,4 +7,5 @@ To use these functions:
 3. The second function extract desired information contained in lines after specific tags (PMID, date and MESH tags) 
 
 
+Author: Osnat Hakimi 
 
