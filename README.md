@@ -1,6 +1,7 @@
 # Mesh tag extractor
 
-The code takes a medline format collection of records downloaded from PubMed (e.g. using the *[Ebot] (https://www.ncbi.nlm.nih.gov/Class/PowerTools/eutils/ebot/ebot.cgi) tool) and returns a .csv table with PMID, date and mesh tags for each record in the file. 
+The code takes a medline format collection of records downloaded from PubMed (e.g. using the 
+[Ebot](https://www.ncbi.nlm.nih.gov/Class/PowerTools/eutils/ebot/ebot.cgi) tool) and returns a .csv table with PMID, date and mesh tags for each record in the file. 
 
 
 
